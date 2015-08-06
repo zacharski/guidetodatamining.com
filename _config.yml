@@ -1,0 +1,13 @@
+# Site settings
+author: Ron Zacharski
+title: Programmer's Guide to Data Mining
+email: ron.zacharski@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+ A free book on data mining and machien learning
+baseurl: "/" # the subpath of your site, e.g. /blog/
+permalink: /:year/:month/:title.html
+
+# Build settings
+markdown: kramdown
+destination: htdocs
+

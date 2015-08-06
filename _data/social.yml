@@ -1,0 +1,10 @@
+- link: //www.twitter.com/jekyllrb
+  icon: icon-twitter
+- link: //plus.google.com/explore/jekyllrb
+  icon: icon-googleplus
+- link: //github.com/jekyll
+  icon: icon-github
+- link: //www.flickr.com/explore
+  icon: icon-flickr
+- link: /feed
+  icon: icon-feed

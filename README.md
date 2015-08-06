@@ -1,0 +1,1 @@
+This is a fork of [@yihui's](https://github.com/yihui) [knitr-jekyll](https://github.com/yihui/knitr-jekyll) modified to use the [tufte-jekyll](https://github.com/clayh53/tufte-jekyll) theme (with a few extra tweaks).
