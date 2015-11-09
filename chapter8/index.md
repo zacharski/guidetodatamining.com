@@ -34,6 +34,7 @@ This chapter looks at two different methods of clustering: hierarchical clusteri
 ### Data
 
 * [dog.csv](https://raw.githubusercontent.com/zacharski/pg2dm-python/master/data/ch8/dogs.csv) (dog breed example)
+* [dogDistanceSorted.txt](https://raw.githubusercontent.com/zacharski/pg2dm-python/0684ec677a1a1baaecb47bc0f8f21ec121e83339/data/ch8/dogDistanceSorted.txt)
 * [cereal.csv](https://raw.githubusercontent.com/zacharski/pg2dm-python/master/data/ch8/cereal.csv) (breakfast cereals)
 * [mpg.txt](https://raw.githubusercontent.com/zacharski/pg2dm-python/master/data/ch8/mpg.txt) (car mpg data)
 * [enrondata.txt](https://raw.githubusercontent.com/zacharski/pg2dm-python/master/data/ch8/enrondata.txt) (Enron from-to counts data)
